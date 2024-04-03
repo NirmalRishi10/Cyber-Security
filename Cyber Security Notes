@@ -100,3 +100,7 @@ ping 172.1.42.45 it will send 4 packet in normal windows
 in linux ping 172.1.42.45-c 4 c-count
 for connecting the same type of device use cross over wire 
 for connecting different type of device use straight over wire 
+DHCP-Dynamic Host Configuration Protocol. The Dynamic Host Configuration Protocol is a network management protocol. 
+    It is used on Internet Protocol networks and automatically assigns an IP address to the devices connected to the 
+    network using a client-server architecture.
+DNS
