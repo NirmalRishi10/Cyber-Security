@@ -1,1 +1,12 @@
 where command is used to find the path of the application
+cd.. is used to comeback from the path step by step
+cd../../../../ is used to comeback in time saving method
+Tab key is used to find the number of exixting path in the application
+ more command is used to for reading a file
+mkdir used to create folder
+mv is the movie command for the file moving
+rm is used to remove or delete
+dl is also used to delete 
+pyth0n -m http.server80
+
+
