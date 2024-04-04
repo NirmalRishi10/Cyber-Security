@@ -1,1 +1,9 @@
-
+proxy
+VPN- Encryption/Decryption
+Encryption- clear text->cipher text
+Decryption- cipher text-> clear text
+symmentric encryption- single key
+asymmentric encryption- public key& private key
+wireshark is a packet analysier
+3 way handshack
+tls handshack(transport layer security)
