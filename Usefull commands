@@ -8,5 +8,5 @@ mv is the movie command for the file moving
 rm is used to remove or delete
 dl is also used to delete 
 pyth0n -m http.server80
-
+get FileHash
 
