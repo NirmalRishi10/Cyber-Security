@@ -1,0 +1,27 @@
+proxy
+VPN- Encryption/Decryption
+Encryption- clear text->cipher text
+Decryption- cipher text-> clear text
+symmentric encryption- single key
+asymmentric encryption- public key& private key
+wireshark is a packet analysier
+3 way handshack
+tls handshack(transport layer security)
+vulnerability assessment process
+  assest discovery-->vulnerability scanning-->vulnerability assessment-->vulnerability remediation
+National vulnerability database
+   cvss-commom vulnerability scoring system
+          SEVERITY           SEVERITY SCORE RANGE-
+            NONE                    0.0
+            LOW                     0.1-3.9
+            MEDIUM                  4.0-6.9
+            HIGH                    7.0-8.9
+POLICY
+PROCEDURE
+STANDARD
+REGULATIONS
+Penetration testing
+   An authorized attack on acomputer system,network,or application to identify security vulnerabilities bad actors might exploit.
+types
+      internal penetration testing
+      external penetration testing
